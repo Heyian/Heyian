@@ -6,8 +6,8 @@ I design and ship AI-powered backend systems — spanning model training, data i
 Background in IT systems; now building at scale.
 **Expertise**: AI Systems · Backend Engineering · Data Infrastructure · Business Automation
 
-📍 Quebec, Canada · Bilingual EN/FR
-✉️ heyian404@pm.me
+* 📍 Quebec, Canada · Bilingual EN/FR
+* ✉️ heyian404@pm.me
 
 ## 🛠️ Languages & Tools
 
@@ -58,7 +58,7 @@ Background in IT systems; now building at scale.
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
